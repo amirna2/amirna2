@@ -4,8 +4,9 @@
   - The environment
   - LoRa and mesh networks
   - Data acquisition and AI
-  - Robotics
-- 💞️ I’m looking to collaborate on IoT projects for the Environment
+  - Robotics, Teleoperation
+  - Game development
+- 💞️ I’m looking to collaborate, contribute or work on any of the domains above
 - 📫 How to reach me: www.linkedin.com/in/anathoo
 
 <!---
